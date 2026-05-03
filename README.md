@@ -33,8 +33,8 @@ Cocok sebagai latihan dasar untuk memahami struktur layout dan styling website ğ
 
 ## ğŸ‘€ Preview
 
-![Preview 1](./assets/preview-1.png)
-![Preview 2](./assets/preview-2.png)
+![Preview 1](./assets/preview1.png)
+![Preview 2](./assets/preview2.png)
 
 ---
 
