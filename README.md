@@ -42,4 +42,15 @@ Cocok sebagai latihan dasar untuk memahami struktur layout dan styling website ð
 
 1. Clone repository ini
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/achraflyy48/Design-an-Event-Webpage-using-HTML-and-CSS.git
+
+2. Masuk ke folder project
+   ```bash
+   cd Design-an-Event-Webpage-using-HTML-and-CSS
+
+3. Buka file index.html di browser<br>
+   (Klik dua kali atau gunakan Live Server di VS Code)
+
+---
+
+âœ¨ Simple project, clean design, dan cocok untuk portofolio frontend pemula.
